@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">VoxBridge</string>
+    <string name="tagline">Speak Without Speaking</string>
+    <string name="app_description">Voice assistance &amp; communication bridge for speech-impaired individuals and travelers.</string>
+
+    <!-- Status Messages -->
+    <string name="status_ready">Ready to speak</string>
+    <string name="status_speaking">Speaking aloud&#8230;</string>
+    <string name="status_stopped">Speech stopped</string>
+    <string name="status_cleared">Input cleared</string>
+    <string name="status_empty_warning">Please enter some text or pick a quick phrase first</string>
+    <string name="status_tts_initializing">Initializing Speech Engine&#8230;</string>
+    <string name="status_tts_ready">Speech Engine ready</string>
+    <string name="status_tts_error">Speech Engine initialization failed on this device</string>
+    <string name="status_translation_phase2_note">Phase 2 Notice: Offline translation module will be connected in Phase 2. Currently in speech mode.</string>
+
+    <!-- Text Input -->
+    <string name="input_label">Message to Speak</string>
+    <string name="input_hint">Type what you want to say, or tap a quick phrase below&#8230;</string>
+    <string name="char_count_format">%d characters</string>
+    <string name="clear_button">Clear</string>
+    <string name="clear_button_desc">Clear message input</string>
+
+    <!-- Speech Controls -->
+    <string name="btn_speak">Speak</string>
+    <string name="btn_speak_desc">Play message aloud using Text-to-Speech</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_stop_desc">Stop current speech output</string>
+    <string name="speech_rate_label_format">Speech Speed: %1$.1fx (%2$s)</string>
+    <string name="speed_slow">Slow</string>
+    <string name="speed_normal">Normal</string>
+    <string name="speed_fast">Fast</string>
+    <string name="speed_very_fast">Very Fast</string>
+
+    <!-- Quick Phrases Section -->
+    <string name="quick_phrases_title">Quick Phrases</string>
+    <string name="quick_phrases_subtitle">Tap any phrase to insert it directly into speech box</string>
+
+    <string name="phrase_help">I need help.</string>
+    <string name="phrase_water">I need water.</string>
+    <string name="phrase_family">Please call my family.</string>
+    <string name="phrase_cannot_speak">I cannot speak. Please read this message.</string>
+    <string name="phrase_hospital">Where is the nearest hospital?</string>
+    <string name="phrase_thank_you">Thank you.</string>
+    <string name="phrase_yes">Yes.</string>
+    <string name="phrase_no">No.</string>
+    <string name="phrase_slowly">Please speak slowly.</string>
+    <string name="phrase_not_understand">I do not understand.</string>
+
+    <!-- Translation Section -->
+    <string name="translation_title">Language Translation</string>
+    <string name="translation_subtitle">On-Device Machine Learning (ML Kit)</string>
+    <string name="source_language_label">From Language</string>
+    <string name="target_language_label">To Language</string>
+    <string name="btn_translate">Translate</string>
+    <string name="btn_speak_translation">Speak Translated Text</string>
+    <string name="translated_text_placeholder">Translated text will appear here</string>
+    <string name="translation_status_info">On-Device ML: Requires internet initially to download the language model (~30MB). After download, translations work 100% offline.</string>
+    <string name="translation_same_language">Source and target languages are identical. Text copied.</string>
+    <string name="translation_downloading_model">Downloading %1$s language model (~30MB). Please wait…</string>
+    <string name="translation_in_progress">Translating text on-device…</string>
+    <string name="translation_success">Translation complete (On-Device)</string>
+    <string name="translation_model_needed_offline">Translation model for %1$s is not downloaded. Please connect to internet to download it for offline use.</string>
+</resources>

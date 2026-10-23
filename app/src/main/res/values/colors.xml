@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Primary: Deep Navy -->
+    <color name="primary_navy">#1B2A4A</color>
+    <color name="primary_navy_dark">#0E1729</color>
+    <color name="primary_navy_light">#2D3F65</color>
+    <color name="navy_container">#EDF2F9</color>
+
+    <!-- Brand Accent: Vibrant & Accessible Teal -->
+    <color name="teal_primary">#00838F</color>
+    <color name="teal_dark">#005662</color>
+    <color name="teal_light">#26A69A</color>
+    <color name="teal_container">#E0F2F1</color>
+    <color name="teal_container_stroke">#B2DFDB</color>
+    <color name="teal_text">#004D40</color>
+
+    <!-- Backgrounds & Surfaces -->
+    <color name="bg_light">#F8FAFC</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="surface_card_stroke">#E2E8F0</color>
+    <color name="surface_card_stroke_focused">#00838F</color>
+
+    <!-- Typography Colors (High Contrast) -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_muted">#64748B</color>
+    <color name="text_light">#F8FAFC</color>
+
+    <!-- Functional & Status Colors -->
+    <color name="status_ready">#10B981</color>
+    <color name="status_ready_bg">#DCFCE7</color>
+    <color name="status_speaking">#00838F</color>
+    <color name="status_speaking_bg">#E0F2F1</color>
+    <color name="status_stopped">#E11D48</color>
+    <color name="status_stopped_bg">#FFE4E6</color>
+    <color name="status_phase">#F59E0B</color>
+    <color name="status_phase_bg">#FEF3C7</color>
+
+    <!-- Controls & Actions -->
+    <color name="action_stop">#DC2626</color>
+    <color name="action_stop_ripple">#FCA5A5</color>
+    <color name="chip_bg">#F1F5F9</color>
+    <color name="chip_stroke">#CBD5E1</color>
+    <color name="chip_text">#1E293B</color>
+    <color name="chip_selected_bg">#E0F2F1</color>
+    <color name="chip_selected_stroke">#00838F</color>
+
+    <!-- Standard Neutrals -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>
